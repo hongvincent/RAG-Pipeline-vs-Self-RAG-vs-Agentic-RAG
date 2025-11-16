@@ -1,0 +1,92 @@
+[
+  {
+    "id": "POL001",
+    "category": "Return Policy",
+    "title": "General Return Policy",
+    "content": "We offer hassle-free returns within the specified return period for each product category. Items must be in original condition with all tags attached and original packaging. Electronics must include all accessories and manuals. To initiate a return, log into your account and request a return authorization. We will provide a prepaid return label for your convenience. Refunds are processed within 5-7 business days after we receive and inspect the returned item."
+  },
+  {
+    "id": "POL002",
+    "category": "Return Policy",
+    "title": "Electronics Return Policy",
+    "content": "Electronics items (laptops, smartphones, TVs, gaming consoles, etc.) can be returned within 30 days of delivery. The item must be in like-new condition with original packaging, accessories, cables, manuals, and any promotional items. A 15% restocking fee may apply if the product is opened but not defective. Defective electronics can be returned for full refund or exchange with no restocking fee. Software products cannot be returned once opened unless defective."
+  },
+  {
+    "id": "POL003",
+    "category": "Return Policy",
+    "title": "Clothing Return Policy",
+    "content": "Clothing and footwear items can be returned within 60 days of delivery. Items must be unworn, unwashed, and have all original tags attached. We do not accept returns on undergarments, swimwear, or earrings for hygiene reasons. Shoes must be tried on indoors only - items showing signs of wear cannot be accepted. All clothing returns receive full refund with no restocking fees. Exchanges for different sizes or colors are processed as return and new purchase."
+  },
+  {
+    "id": "POL004",
+    "category": "Return Policy",
+    "title": "Home & Garden Return Policy",
+    "content": "Home and garden items can be returned within 30 days of delivery. Large appliances must be in original packaging and may require scheduled pickup. Small appliances must include all parts and accessories. Items that have been installed or assembled may be subject to a restocking fee. Defective items can be returned for full refund at any time within the warranty period."
+  },
+  {
+    "id": "POL005",
+    "category": "Warranty",
+    "title": "Manufacturer Warranty Coverage",
+    "content": "Most electronics and appliances come with manufacturer warranty ranging from 1 to 2 years. Warranty covers defects in materials and workmanship under normal use. Warranty does not cover damage from accidents, misuse, unauthorized modifications, or normal wear and tear. To claim warranty service, contact our support team with your order number and description of the issue. We will coordinate with the manufacturer for repair or replacement. Warranty service may require shipping the product to authorized service center."
+  },
+  {
+    "id": "POL006",
+    "category": "Warranty",
+    "title": "Extended Warranty Options",
+    "content": "We offer optional extended warranty plans for electronics purchases. Extended warranty can be purchased at checkout or within 30 days of product delivery. Plans are available for 1, 2, or 3 years beyond manufacturer warranty. Extended warranty covers accidental damage, power surges, and mechanical failures. Claims are processed within 48 hours with advance replacement option for most items. Extended warranty is non-refundable and non-transferable."
+  },
+  {
+    "id": "POL007",
+    "category": "Warranty",
+    "title": "Defective Product Warranty",
+    "content": "If you receive a defective product, contact us within 7 days of delivery for immediate replacement. We will send a replacement via expedited shipping at no charge. Defective items can be returned even after the standard return period if covered under warranty. Keep all original packaging until you confirm the product works properly. For defective electronics, we may require troubleshooting steps before authorizing replacement."
+  },
+  {
+    "id": "POL008",
+    "category": "Refund Policy",
+    "title": "Refund Processing",
+    "content": "Refunds are issued to the original payment method within 5-7 business days after we receive and inspect the returned item. Credit card refunds may take 2-3 additional business days to appear on your statement depending on your bank. PayPal refunds are processed immediately. Gift card purchases are refunded to store credit. Shipping charges are non-refundable unless the return is due to our error or defective product."
+  },
+  {
+    "id": "POL009",
+    "category": "Refund Policy",
+    "title": "Partial Refunds",
+    "content": "Partial refunds may be issued in following situations: item returned without original packaging (10% deduction), item showing signs of use (20-30% deduction), item missing accessories (cost of accessories deducted), item returned after return period but within warranty (restocking fee applies). Final refund amount is determined after inspection of returned item. You will be notified of partial refund via email before processing."
+  },
+  {
+    "id": "POL010",
+    "category": "Exchange Policy",
+    "title": "Product Exchanges",
+    "content": "We do not offer direct exchanges. To exchange an item for different size, color, or model, please return the original item for refund and place a new order. This ensures faster processing and guarantees availability of desired item. If returning due to size issues, we recommend checking our size guide before ordering replacement. For defective items, we offer advance exchange where replacement is shipped before return is received."
+  },
+  {
+    "id": "POL011",
+    "category": "Privacy Policy",
+    "title": "Data Collection and Usage",
+    "content": "We collect personal information including name, email, shipping address, and payment information to process orders. We use cookies to improve shopping experience and analyze site traffic. Your data is encrypted and stored securely. We do not sell personal information to third parties. Data may be shared with shipping carriers and payment processors to fulfill orders. You can request to view, update, or delete your personal data by contacting customer service."
+  },
+  {
+    "id": "POL012",
+    "category": "Privacy Policy",
+    "title": "Marketing Communications",
+    "content": "By creating an account, you agree to receive order confirmations and shipping notifications. Marketing emails are optional - you can opt in or out at any time. We send promotional emails about sales, new products, and special offers to subscribed users only. All marketing emails include unsubscribe link. We do not send unsolicited text messages. You can manage communication preferences in your account settings."
+  },
+  {
+    "id": "POL013",
+    "category": "Payment Policy",
+    "title": "Accepted Payment Methods",
+    "content": "We accept major credit cards (Visa, Mastercard, American Express, Discover), PayPal, Apple Pay, Google Pay, and our store gift cards. All transactions are processed through secure, encrypted payment gateway. Credit card information is not stored on our servers. For large orders over $1000, additional verification may be required. International orders may have limited payment options depending on country."
+  },
+  {
+    "id": "POL014",
+    "category": "Payment Policy",
+    "title": "Price Matching",
+    "content": "We offer price matching for identical items sold by major competitors. Price match requests must be submitted before purchase. Item must be in stock at both stores and identical in model, size, and color. Competitor pricing must be verifiable through their official website. Price matching does not apply to clearance items, membership pricing, or marketplace sellers. We reserve the right to limit price matching to reasonable quantities."
+  },
+  {
+    "id": "POL015",
+    "category": "Account Policy",
+    "title": "Account Security",
+    "content": "Your account is protected by password authentication. We recommend using strong, unique passwords and enabling two-factor authentication. Never share your password with others. If you suspect unauthorized access, change your password immediately and contact our security team. We will never ask for your password via email or phone. Account holders are responsible for all activities under their account."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "SHIP001",
+    "category": "Shipping Methods",
+    "title": "Standard Shipping",
+    "content": "Standard shipping is our most economical option with delivery in 5-7 business days. Available for all domestic orders. Cost is $5.99 for orders under $50, FREE for orders over $50. Tracking information provided within 24 hours of shipment. Standard shipping uses USPS or FedEx Ground depending on destination. Not available for Alaska, Hawaii, or US territories."
+  },
+  {
+    "id": "SHIP002",
+    "category": "Shipping Methods",
+    "title": "Express Shipping",
+    "content": "Express shipping delivers in 2-3 business days. Flat rate of $14.99 regardless of order size. Available for all domestic addresses including Alaska and Hawaii (additional fees apply). Orders placed before 2 PM EST ship same day. Tracking updates provided every 24 hours. Express shipping uses FedEx Express or UPS 2nd Day Air."
+  },
+  {
+    "id": "SHIP003",
+    "category": "Shipping Methods",
+    "title": "Overnight Shipping",
+    "content": "Overnight shipping guarantees next business day delivery. Available for orders under 20 lbs. Cost is $29.99 for most items. Orders must be placed before 12 PM EST for same-day shipment. Delivery by 5 PM on next business day (8 PM for residential). Saturday delivery available for additional $15 fee. Large items and furniture are not eligible for overnight shipping."
+  },
+  {
+    "id": "SHIP004",
+    "category": "Shipping Costs",
+    "title": "Shipping Cost Calculation",
+    "content": "Shipping costs are calculated based on package weight, dimensions, and destination. Free standard shipping on orders over $50. Heavy items (over 50 lbs) may incur additional freight charges. Shipping costs are displayed at checkout before payment. Multiple items may ship in separate packages from different warehouses at no extra cost. We reserve the right to adjust shipping charges for incorrect address or refused delivery."
+  },
+  {
+    "id": "SHIP005",
+    "category": "International Shipping",
+    "title": "International Shipping Availability",
+    "content": "We ship to over 100 countries worldwide. International shipping times vary by destination: Canada 7-10 days, Europe 10-15 days, Asia 12-18 days, Australia 14-20 days. Delivery times are estimates and not guaranteed. International orders are shipped via DHL, FedEx International, or USPS Priority International. Tracking is available for all international shipments."
+  },
+  {
+    "id": "SHIP006",
+    "category": "International Shipping",
+    "title": "International Customs and Duties",
+    "content": "International customers are responsible for all customs duties, taxes, and import fees charged by destination country. These fees are not included in our shipping charges and are collected upon delivery. Refused packages due to customs fees will not be refunded. We declare actual product value on customs forms. Some items may be restricted or prohibited in certain countries - check local regulations before ordering."
+  },
+  {
+    "id": "SHIP007",
+    "category": "International Shipping",
+    "title": "International Shipping Costs",
+    "content": "International shipping costs are based on destination country, package weight, and shipping method. Typical costs: Canada $15-30, Europe $25-50, Asia $30-60, Australia $35-65. Actual cost calculated at checkout. Electronics may have higher shipping costs due to battery restrictions. Free shipping promotions do not apply to international orders. We cannot ship items with lithium batteries via air to some countries."
+  },
+  {
+    "id": "SHIP008",
+    "category": "Order Tracking",
+    "title": "Tracking Your Order",
+    "content": "Tracking information is emailed within 24 hours of shipment. Track your order using the tracking number provided in your shipping confirmation email. You can also track orders by logging into your account and viewing order history. Tracking updates may take 24-48 hours to appear in carrier system. If tracking shows no movement for 5 days, contact customer service for assistance."
+  },
+  {
+    "id": "SHIP009",
+    "category": "Order Tracking",
+    "title": "Delivery Issues",
+    "content": "If package shows delivered but you haven't received it: check with household members, look for notice from carrier, check mailroom or package room, verify delivery address. Contact carrier directly if package cannot be located. File claim with us within 7 days if package is confirmed lost. We will investigate with carrier and provide replacement or refund. Signature may be required for high-value orders ($500+)."
+  },
+  {
+    "id": "SHIP010",
+    "category": "Order Processing",
+    "title": "Order Processing Time",
+    "content": "Orders are typically processed within 24 hours of placement. Orders placed on weekends or holidays are processed next business day. High-demand items may take 2-3 days to process. You will receive order confirmation email immediately and shipping confirmation when order ships. Custom or personalized items may take 3-5 additional business days. Cannot modify or cancel order after it has shipped."
+  },
+  {
+    "id": "SHIP011",
+    "category": "Order Processing",
+    "title": "Order Cancellation",
+    "content": "Orders can be cancelled within 2 hours of placement by contacting customer service or using account portal. After 2 hours, order may have entered shipping process and cannot be cancelled. If order has shipped, you must receive it and initiate return. Refund for cancelled orders processed within 3-5 business days. Custom or personalized orders cannot be cancelled once production has started."
+  },
+  {
+    "id": "SHIP012",
+    "category": "Special Handling",
+    "title": "Large Item Delivery",
+    "content": "Large items (furniture, appliances) require special handling and delivery. Curbside delivery is standard - item delivered to your address but not brought inside. White glove delivery available for additional fee ($75-150) - includes inside delivery, unpacking, and assembly. Delivery appointment scheduled within 3-5 business days. Someone over 18 must be present to receive delivery. Check item dimensions before ordering to ensure it fits through doorways."
+  },
+  {
+    "id": "SHIP013",
+    "category": "Special Handling",
+    "title": "Signature Required",
+    "content": "Signature required for orders over $500 to prevent theft and ensure safe delivery. An adult over 18 must be present to sign for package. If no one available, carrier will leave notice and attempt redelivery. After 3 delivery attempts, package returns to our warehouse. You can request to pick up from local carrier facility or authorize delivery without signature (we are not responsible for lost packages). Signature requirement cannot be waived for international shipments."
+  },
+  {
+    "id": "SHIP014",
+    "category": "Shipping Restrictions",
+    "title": "Items We Cannot Ship",
+    "content": "We cannot ship hazardous materials, flammable liquids, or compressed gases. Lithium batteries have shipping restrictions for air transport. Some electronics cannot be shipped to certain countries due to export restrictions. Alcoholic products cannot be shipped to some states. PO Boxes not accepted for large items or express shipping. Military APO/FPO addresses have specific requirements and longer delivery times."
+  },
+  {
+    "id": "SHIP015",
+    "category": "Shipping Addresses",
+    "title": "Address Changes and Corrections",
+    "content": "Verify shipping address carefully before placing order. Address changes can be made within 2 hours of order placement. After order ships, contact carrier directly to request address change (fees may apply). Incorrect addresses may result in delayed delivery or returned packages. Return shipping fees for incorrect addresses are customer responsibility. We recommend using address validation at checkout. Apartment numbers and suite numbers are required for multi-unit buildings."
+  }
+]

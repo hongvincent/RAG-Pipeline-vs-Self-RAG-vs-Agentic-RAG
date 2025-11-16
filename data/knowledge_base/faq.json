@@ -1,0 +1,122 @@
+[
+  {
+    "id": "FAQ001",
+    "category": "Account",
+    "question": "How do I create an account?",
+    "answer": "Click 'Sign Up' at the top of any page. Enter your email address and create a password (minimum 8 characters with at least one number and special character). Verify your email by clicking the link sent to your inbox. You can also sign up using your Google or Facebook account for faster registration. Account creation is free and gives you access to order tracking, saved addresses, and wishlist features."
+  },
+  {
+    "id": "FAQ002",
+    "category": "Account",
+    "question": "I forgot my password. How do I reset it?",
+    "answer": "Click 'Sign In' then 'Forgot Password'. Enter your email address and we'll send a password reset link. Click the link in the email (valid for 24 hours) to create a new password. If you don't receive the email within 10 minutes, check your spam folder. For security, password reset links can only be used once. Contact customer service if you continue having issues accessing your account."
+  },
+  {
+    "id": "FAQ003",
+    "category": "Account",
+    "question": "Can I change my email address?",
+    "answer": "Yes, you can change your email address in account settings. Log in, go to 'Account Settings', click 'Edit' next to your email address, enter new email, and verify it by clicking the link sent to the new address. For security, you'll need to enter your current password to confirm the change. Order confirmations and shipping updates will be sent to the new email address after verification."
+  },
+  {
+    "id": "FAQ004",
+    "category": "Orders",
+    "question": "How do I track my order?",
+    "answer": "You'll receive a shipping confirmation email with tracking number within 24 hours of your order shipping. Click the tracking link in the email or log into your account and view 'Order History'. You can also track by entering your order number and email on our 'Track Order' page. Tracking information updates every 24 hours. If your tracking hasn't updated in 3 days, contact customer service."
+  },
+  {
+    "id": "FAQ005",
+    "category": "Orders",
+    "question": "Can I modify my order after placing it?",
+    "answer": "Orders can be modified within 2 hours of placement. Contact customer service immediately or use the 'Modify Order' option in your account. You can change shipping address, add items, or remove items. After 2 hours, orders enter our shipping process and cannot be modified. If your order has already shipped, you'll need to receive it and process a return for any unwanted items."
+  },
+  {
+    "id": "FAQ006",
+    "category": "Orders",
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, gift wrapping is available for $5.99 per item. Select 'Gift Wrap' option at checkout. Your gift will be wrapped in premium paper with ribbon. We can include a gift message (up to 250 characters). Gift receipts (without prices) are automatically included. Gift wrapped items may take an additional 1-2 business days to process. Not all items are eligible for gift wrapping (furniture, large appliances)."
+  },
+  {
+    "id": "FAQ007",
+    "category": "Payments",
+    "question": "Is it safe to use my credit card?",
+    "answer": "Yes, our checkout is 100% secure with SSL encryption. We are PCI DSS compliant and use industry-standard security measures. Your credit card information is encrypted and never stored on our servers. All transactions are processed through secure payment gateway. We use fraud detection systems to protect your account. You'll see a lock icon in your browser address bar indicating secure connection."
+  },
+  {
+    "id": "FAQ008",
+    "category": "Payments",
+    "question": "When will I be charged?",
+    "answer": "Your credit card or PayPal account is charged when your order ships, not when you place the order. For orders with multiple items shipping separately, you'll be charged for each shipment. Pre-orders are charged when the item becomes available and ships. If an item is out of stock, you won't be charged. Cancelled orders are not charged - if you see a pending charge, it will drop off within 3-5 business days."
+  },
+  {
+    "id": "FAQ009",
+    "category": "Payments",
+    "question": "Do you accept payment plans?",
+    "answer": "Yes, we partner with Affirm and Klarna for buy now, pay later options. Available for purchases $50-$5000. Choose payment plan at checkout and complete quick approval process. Options include: pay in 4 interest-free payments, 6-month or 12-month financing. Approval and rates determined by Affirm/Klarna based on creditworthiness. No impact on credit score to check eligibility. First payment due at time of purchase."
+  },
+  {
+    "id": "FAQ010",
+    "category": "Returns",
+    "question": "How long do I have to return an item?",
+    "answer": "Return periods vary by category: Electronics - 30 days, Clothing & Footwear - 60 days, Home & Garden - 30 days, Sports & Outdoors - 30 days. Return period begins from delivery date, not order date. Items must be in original condition with tags and packaging. To initiate return, log into your account or contact customer service. We provide prepaid return shipping labels for your convenience."
+  },
+  {
+    "id": "FAQ011",
+    "category": "Returns",
+    "question": "Who pays for return shipping?",
+    "answer": "For standard returns, we provide a prepaid return label at no cost to you (return shipping fee is deducted from refund - typically $6.99). For defective items or our errors, we cover all return shipping costs with no deduction. You can use your own shipping method and we'll reimburse actual shipping cost up to $15. International returns must use provided label and customer pays return shipping. Refused deliveries are subject to shipping charges."
+  },
+  {
+    "id": "FAQ012",
+    "category": "Returns",
+    "question": "How do I return an item without the original packaging?",
+    "answer": "Items can be returned without original packaging but a 10% repackaging fee may apply. Item must still have tags and be in new, unused condition. Pack securely in any box to prevent damage during shipping. Electronics should include all accessories even if original box is not available. We recommend keeping packaging for at least 30 days after delivery. Items damaged due to improper packaging during return may receive reduced refund."
+  },
+  {
+    "id": "FAQ013",
+    "category": "Products",
+    "question": "Are your product photos accurate?",
+    "answer": "We strive for accurate product representation. Colors may vary slightly due to monitor settings and lighting. All product dimensions are listed in description. We use manufacturer photos and specifications when available. Customer reviews often include real photos. If item significantly differs from description, return for full refund. Check 'Customer Photos' section in reviews for additional perspectives. We accept returns for color/appearance dissatisfaction."
+  },
+  {
+    "id": "FAQ014",
+    "category": "Products",
+    "question": "How do I know what size to order?",
+    "answer": "Each clothing item has detailed size chart available on product page. Click 'Size Guide' to view measurements. We include bust, waist, hip, and inseam measurements in inches and centimeters. Customer reviews often mention fit (runs small/large/true to size). When between sizes, we recommend sizing up. Size charts are brand-specific as sizing varies between manufacturers. Free returns available if size doesn't fit, so you can try risk-free."
+  },
+  {
+    "id": "FAQ015",
+    "category": "Products",
+    "question": "Do you restock out-of-stock items?",
+    "answer": "Most items are restocked regularly. Click 'Notify Me' on product page to receive email when item is back in stock. Restocking times vary: popular items 1-2 weeks, seasonal items may take longer, discontinued items won't restock. Check product page for estimated restock date if available. You can also contact customer service for specific restock information. Some items may have limited quantities and may not be restocked once sold out."
+  },
+  {
+    "id": "FAQ016",
+    "category": "Promotions",
+    "question": "How do I use a promo code?",
+    "answer": "Enter promo code in the 'Promo Code' box at checkout and click 'Apply'. Discount will be reflected in order total. One promo code per order. Codes are case-sensitive - enter exactly as provided. Promo codes cannot be combined with other offers unless stated. Some exclusions may apply (certain brands, sale items). Expired codes cannot be accepted. If code doesn't work, check expiration date and terms. Contact customer service if you have issues with valid code."
+  },
+  {
+    "id": "FAQ017",
+    "category": "Promotions",
+    "question": "How can I get free shipping?",
+    "answer": "Free standard shipping automatically applies to orders over $50 (before tax, after discounts). No code needed - discount applies at checkout. Free shipping promotions run regularly - sign up for emails to be notified. Free shipping applies to domestic orders only (continental US). Express and overnight shipping always have fees. Some large items may not qualify for free shipping promotion. Free shipping discounts cannot be combined."
+  },
+  {
+    "id": "FAQ018",
+    "category": "Technical",
+    "question": "The website is not working properly. What should I do?",
+    "answer": "Try these troubleshooting steps: clear browser cache and cookies, try different browser (Chrome, Firefox, Safari), disable browser extensions, check internet connection, try on different device. If checkout is not working, ensure cookies are enabled and pop-up blocker is disabled. For mobile app issues, update to latest version or reinstall. Contact customer service if problems persist - provide details about error message, device, and browser used."
+  },
+  {
+    "id": "FAQ019",
+    "category": "Technical",
+    "question": "Can I order by phone?",
+    "answer": "Yes, call our customer service at 1-800-SHOP-NOW (Mon-Fri 9AM-8PM EST, Sat-Sun 10AM-6PM EST). Have item number or website link ready. Phone representatives can help with: placing orders, checking stock, answering product questions, processing returns, tracking orders. Phone orders use same pricing as website. We cannot accept orders via email for security reasons. International customers should use website checkout for best rates."
+  },
+  {
+    "id": "FAQ020",
+    "category": "General",
+    "question": "Do you have physical stores?",
+    "answer": "We are an online-only retailer with no physical stores. This allows us to offer lower prices and wider selection. Returns can be initiated online and shipped back using prepaid label. We have distribution centers nationwide for fast shipping but they are not open to public. For in-person shopping, we recommend checking our products on our website and ordering for home delivery. Local delivery available in select metro areas."
+  }
+]

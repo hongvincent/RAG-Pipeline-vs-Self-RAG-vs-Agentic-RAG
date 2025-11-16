@@ -1,0 +1,202 @@
+[
+  {
+    "id": "PROD001",
+    "category": "Electronics",
+    "name": "UltraBook Pro 15",
+    "description": "High-performance laptop with 15.6-inch 4K display, Intel i9 processor, 32GB RAM, 1TB SSD. Perfect for professionals and content creators. Features include: Thunderbolt 4 ports, Wi-Fi 6E, up to 12 hours battery life, backlit keyboard, and fingerprint reader.",
+    "price": 1899.99,
+    "warranty": "2 years manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Processor: Intel Core i9-12900H, RAM: 32GB DDR5, Storage: 1TB NVMe SSD, Graphics: NVIDIA RTX 3060, Display: 15.6\" 4K OLED"
+  },
+  {
+    "id": "PROD002",
+    "category": "Electronics",
+    "name": "SmartPhone X Pro",
+    "description": "Latest flagship smartphone with 6.7-inch AMOLED display, 5G connectivity, triple camera system (108MP main + 12MP ultra-wide + 10MP telephoto), 12GB RAM, 256GB storage. IP68 water resistant with wireless charging support.",
+    "price": 1199.99,
+    "warranty": "1 year manufacturer warranty",
+    "return_period": "14 days",
+    "specifications": "Display: 6.7\" AMOLED 120Hz, Chipset: Snapdragon 8 Gen 2, Battery: 5000mAh, Cameras: 108MP+12MP+10MP"
+  },
+  {
+    "id": "PROD003",
+    "category": "Electronics",
+    "name": "Wireless Noise-Cancelling Headphones",
+    "description": "Premium over-ear headphones with active noise cancellation, 40mm drivers, 30-hour battery life, multi-device connectivity. Includes carrying case and audio cable for wired use.",
+    "price": 349.99,
+    "warranty": "1 year manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Driver Size: 40mm, Battery: 30 hours, Bluetooth: 5.2, ANC: Adaptive, Weight: 250g"
+  },
+  {
+    "id": "PROD004",
+    "category": "Electronics",
+    "name": "4K Smart TV 55-inch",
+    "description": "55-inch LED smart TV with 4K UHD resolution, HDR10+ support, built-in streaming apps (Netflix, YouTube, Amazon Prime), voice control compatibility, 3 HDMI ports, 2 USB ports.",
+    "price": 699.99,
+    "warranty": "2 years manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Resolution: 3840x2160, Refresh Rate: 60Hz, Smart Platform: WebOS, Ports: 3x HDMI 2.1, 2x USB"
+  },
+  {
+    "id": "PROD005",
+    "category": "Electronics",
+    "name": "Gaming Console NextGen",
+    "description": "Latest generation gaming console with 4K gaming at 120fps, 1TB SSD storage, ray tracing support, backward compatibility with previous generation games. Includes wireless controller.",
+    "price": 499.99,
+    "warranty": "1 year manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "GPU: 12 TFLOPS, Storage: 1TB NVMe SSD, Resolution: Up to 8K, Frame Rate: Up to 120fps"
+  },
+  {
+    "id": "PROD006",
+    "category": "Clothing",
+    "name": "Premium Cotton T-Shirt",
+    "description": "100% organic cotton crew neck t-shirt. Available in multiple colors (Black, White, Navy, Gray). Preshrunk fabric, reinforced stitching, tagless design for comfort. Machine washable.",
+    "price": 29.99,
+    "warranty": "No warranty (apparel)",
+    "return_period": "60 days",
+    "specifications": "Material: 100% Organic Cotton, Fit: Regular, Sizes: XS-XXL, Care: Machine wash cold"
+  },
+  {
+    "id": "PROD007",
+    "category": "Clothing",
+    "name": "Denim Jeans Classic Fit",
+    "description": "Classic fit denim jeans made from premium stretch denim. Five-pocket styling, zip fly with button closure. Available in multiple washes (Light Blue, Dark Blue, Black). Durable and comfortable for everyday wear.",
+    "price": 79.99,
+    "warranty": "No warranty (apparel)",
+    "return_period": "60 days",
+    "specifications": "Material: 98% Cotton, 2% Elastane, Fit: Classic, Sizes: 28-40 waist, Inseam: 30/32/34"
+  },
+  {
+    "id": "PROD008",
+    "category": "Clothing",
+    "name": "Winter Puffer Jacket",
+    "description": "Insulated puffer jacket with water-resistant outer shell, down alternative filling, detachable hood, zippered pockets. Perfect for cold weather. Available in Black, Navy, and Olive Green.",
+    "price": 149.99,
+    "warranty": "No warranty (apparel)",
+    "return_period": "60 days",
+    "specifications": "Material: Polyester shell, Down alternative fill, Water resistant: Yes, Sizes: XS-XXL"
+  },
+  {
+    "id": "PROD009",
+    "category": "Clothing",
+    "name": "Running Shoes Pro",
+    "description": "Performance running shoes with responsive cushioning, breathable mesh upper, durable rubber outsole. Designed for long-distance running with arch support and shock absorption. Available in multiple colors.",
+    "price": 129.99,
+    "warranty": "90 days defect warranty",
+    "return_period": "60 days",
+    "specifications": "Upper: Mesh, Sole: Rubber, Drop: 10mm, Weight: 280g (size 9), Sizes: 6-14"
+  },
+  {
+    "id": "PROD010",
+    "category": "Clothing",
+    "name": "Business Formal Shirt",
+    "description": "Classic formal dress shirt with button-down collar, long sleeves, wrinkle-resistant fabric. Perfect for office wear. Available in White, Light Blue, and Pink. Machine washable, easy care.",
+    "price": 59.99,
+    "warranty": "No warranty (apparel)",
+    "return_period": "60 days",
+    "specifications": "Material: 60% Cotton, 40% Polyester, Fit: Slim/Regular, Sizes: S-XXL, Collar: 14.5-17.5"
+  },
+  {
+    "id": "PROD011",
+    "category": "Home & Garden",
+    "name": "Robot Vacuum Cleaner",
+    "description": "Smart robot vacuum with mapping technology, app control, automatic docking and charging, HEPA filter, works on hardwood and carpet. Scheduling feature and voice assistant compatibility.",
+    "price": 399.99,
+    "warranty": "1 year manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Battery: 5200mAh, Run time: 120 min, Dustbin: 600ml, Connectivity: Wi-Fi, App: iOS/Android"
+  },
+  {
+    "id": "PROD012",
+    "category": "Home & Garden",
+    "name": "Air Purifier with HEPA Filter",
+    "description": "3-stage air purifier with True HEPA filter, activated carbon filter, removes 99.97% of particles. Covers up to 500 sq ft, quiet operation, air quality indicator, timer function.",
+    "price": 249.99,
+    "warranty": "2 years manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Coverage: 500 sq ft, CADR: 230 m³/h, Noise: 25-50 dB, Filter life: 6-8 months"
+  },
+  {
+    "id": "PROD013",
+    "category": "Home & Garden",
+    "name": "Smart Thermostat",
+    "description": "Wi-Fi enabled smart thermostat with learning capabilities, energy usage reports, remote control via smartphone app, works with major HVAC systems. Easy installation with C-wire adapter included.",
+    "price": 199.99,
+    "warranty": "1 year manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Display: 3.3\" color touchscreen, Connectivity: Wi-Fi 802.11, Compatibility: Most 24V HVAC systems"
+  },
+  {
+    "id": "PROD014",
+    "category": "Home & Garden",
+    "name": "Cordless Stick Vacuum",
+    "description": "Lightweight cordless vacuum cleaner with powerful suction, converts to handheld, LED headlights, washable filter. Up to 40 minutes runtime on single charge. Includes multiple attachments.",
+    "price": 299.99,
+    "warranty": "2 years manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Battery: Li-ion, Runtime: 40 min, Charge time: 3.5 hours, Weight: 2.5 kg, Dustbin: 0.5L"
+  },
+  {
+    "id": "PROD015",
+    "category": "Home & Garden",
+    "name": "Electric Coffee Maker",
+    "description": "Programmable coffee maker with 12-cup capacity, brew strength selector, auto shut-off, permanent filter included. Features include: 24-hour programming, pause and serve, warming plate.",
+    "price": 79.99,
+    "warranty": "1 year manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Capacity: 12 cups, Power: 900W, Programmable: Yes, Auto shut-off: 2 hours"
+  },
+  {
+    "id": "PROD016",
+    "category": "Sports & Outdoors",
+    "name": "Yoga Mat Premium",
+    "description": "Extra thick (6mm) yoga mat with non-slip texture, eco-friendly TPE material, lightweight and portable. Includes carrying strap. Perfect for yoga, pilates, and floor exercises.",
+    "price": 39.99,
+    "warranty": "No warranty",
+    "return_period": "30 days",
+    "specifications": "Thickness: 6mm, Material: TPE, Size: 183cm x 61cm, Weight: 1kg, Colors: Multiple"
+  },
+  {
+    "id": "PROD017",
+    "category": "Sports & Outdoors",
+    "name": "Camping Tent 4-Person",
+    "description": "Spacious 4-person camping tent with waterproof rainfly, mesh windows for ventilation, easy setup with color-coded poles. Includes carrying bag and stakes. Floor size: 8ft x 7ft.",
+    "price": 149.99,
+    "warranty": "1 year manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Capacity: 4 person, Floor: 8x7 ft, Height: 5.5 ft, Material: Polyester, Waterproof: 1500mm"
+  },
+  {
+    "id": "PROD018",
+    "category": "Sports & Outdoors",
+    "name": "Adjustable Dumbbells Set",
+    "description": "Space-saving adjustable dumbbell set, weight range 5-52.5 lbs per dumbbell, quick-adjust dial system. Replaces 15 sets of weights. Includes storage tray.",
+    "price": 349.99,
+    "warranty": "2 years manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Weight range: 5-52.5 lbs each, Increments: 2.5 lbs, Material: Steel and plastic"
+  },
+  {
+    "id": "PROD019",
+    "category": "Sports & Outdoors",
+    "name": "Mountain Bike 27.5-inch",
+    "description": "Aluminum frame mountain bike with 21-speed Shimano drivetrain, front suspension fork, disc brakes, 27.5-inch wheels. Suitable for trails and off-road riding.",
+    "price": 499.99,
+    "warranty": "1 year manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Frame: Aluminum, Gears: 21-speed, Brakes: Disc, Wheel size: 27.5\", Weight: 14kg"
+  },
+  {
+    "id": "PROD020",
+    "category": "Sports & Outdoors",
+    "name": "Fitness Tracker Watch",
+    "description": "Advanced fitness tracker with heart rate monitoring, sleep tracking, step counter, calorie tracking, 14 sport modes. Water resistant (5ATM), 7-day battery life, smartphone notifications.",
+    "price": 129.99,
+    "warranty": "1 year manufacturer warranty",
+    "return_period": "30 days",
+    "specifications": "Display: 1.4\" AMOLED, Battery: 7 days, Water resistance: 5ATM, Sensors: HR, Accelerometer, GPS"
+  }
+]
